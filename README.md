@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Link: 
-* [Live Link](https://sanan-official.netlify.app)
+* [Live Link](https://portfolio-sanan.vercel.app/)
 
 ![Home Page](https://github.com/Sananali01/Portfolio-Tailwand/blob/main/src/assets/demo.png)
 
