@@ -55,7 +55,7 @@ const experiences = [
         location:'On-Site',
         icon: loft,
         iconBg: "white",
-        date: "July 2023 - March 2024",
+        date: "June 2023 - March 2024",
         points: [
             "Developing and maintaining web applications using HTML, CSS, JS & React JS",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -68,7 +68,7 @@ const experiences = [
         location:'On-Site',
         icon: tech,
         iconBg: "white",
-        date: "December 2021 - February 2022",
+        date: "December 2021 - March 2022",
         points: [
             "Freelance project-based development team.",
             "Developing and maintaining web applications using HTML, CSS, JS.",
@@ -82,7 +82,7 @@ const experiences = [
         location:'On-Site',
         icon: sm,
         iconBg: "white",
-        date: "June 2022 - November 2022",
+        date: "August 2022 - January 2023",
         points: [
             "Assisted in the development of web applications using HTML, CSS, and JavaScript under senior developers' guidance.",
             "Participated in team meetings and collaborated with other interns and developers to solve technical challenges.",
