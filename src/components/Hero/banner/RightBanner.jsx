@@ -1,4 +1,4 @@
-import img from "../../../assets/pic.png";
+import img from "../../../assets/pic2.png";
 
 const RightBanner = () => {
   return (
