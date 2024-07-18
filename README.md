@@ -1,9 +1,9 @@
 # Portfolio
 
 ## Link: 
-* [Live Link](https://ras1k-portfolio.vercel.app/)
+* [Live Link](https://sanan-official.netlify.app)
 
-![Home Page](https://github.com/ras1k/React-Portfolio/assets)
+![Home Page](https://github.com/Sananali01/Portfolio-Tailwand/blob/main/src/assets/demo.png)
 
 ## Technologies Used:
 * React/Vite
